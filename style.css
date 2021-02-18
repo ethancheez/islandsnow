@@ -7,11 +7,12 @@
   border: none;
 }
 
-.ui.midimage.image {
-  margin-bottom: 50px;
+.ui.footer {
+  margin-top: 30px;
+  height: 200px;
 }
 
 body {
   margin-top: 50px;
-  margin-bottom: 100px;
+  margin-bottom: 200px;
 }
