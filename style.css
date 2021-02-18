@@ -1,3 +1,12 @@
-.ui.borderless.menu {
+.ui.borderless.topmenu.menu {
   background-color: #f7f7f7;
+}
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+body {
+  margin-top: 50px;
 }
