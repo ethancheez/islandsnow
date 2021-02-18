@@ -7,6 +7,11 @@
   border: none;
 }
 
+.ui.midimage.image {
+  margin-bottom: 50px;
+}
+
 body {
   margin-top: 50px;
+  margin-bottom: 100px;
 }
