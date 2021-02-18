@@ -7,6 +7,11 @@
   border: none;
 }
 
+.ui.footer {
+  height: 250px;
+  margin-top: 30px;
+}
+
 body {
   margin-top: 50px;
 }
